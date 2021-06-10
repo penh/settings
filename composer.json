@@ -1,5 +1,5 @@
 {
-  "name": "edvinaskrucas/settings",
+  "name": "penh/settings",
   "keywords": ["settings", "persistent settings", "laravel"],
   "description": "Persistent settings package for Laravel framework.",
   "authors": [
